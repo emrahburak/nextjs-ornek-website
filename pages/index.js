@@ -10,6 +10,7 @@ function HomePage() {
 
         <div>
           <h1>Welcome to Next.js!</h1>
+          <h2>İlk web siteme hoşgeldin</h2>
         </div>
     </Layout>
   )

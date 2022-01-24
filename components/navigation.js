@@ -10,7 +10,7 @@ function Navigation() {
           <a className={styles.link}>Anasayfa</a>
         </Link>
 
-        <Link href="about">
+        <Link href="/about">
           <a>Hakkında</a>
         </Link>
       </nav>
